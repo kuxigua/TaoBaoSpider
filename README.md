@@ -10,7 +10,9 @@
  - dataHandle： 处理返回的不标准的JavaScript Json数据，返回商品信息列表
  - urlStitching: 生成100页淘宝url数据信息
  - 提取数据, 只提取了标题和图片url
-    瑞士进口怀尔德美白牙膏牙齿美白去口臭牙
+ 
+ 
+ 瑞士进口怀尔德美白牙膏牙齿美白去口臭牙
 //g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i4/125908813/TB2zRCfniMnBKNjSZFzXXc_qVXa_!!0-saturn_solar.jpg
 德国泰瑞美儿童牙膏婴儿宝宝可吞咽防蛀牙
 //g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i4/116504913/O1CN01YaMMcP1mACMt8RVKr_!!0-saturn_solar.jpg
